@@ -1,0 +1,10 @@
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.csprojResolveAssemblyReference.cache
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.Form1.resources
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.Properties.Resources.resources
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.csproj.GenerateResource.cache
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.csproj.CoreCompileInputs.cache
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\bin\Debug\MYCC.exe.config
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\bin\Debug\MYCC.exe
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\bin\Debug\MYCC.pdb
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.exe
+C:\Users\Вадим Бидюк\source\repos\MYCC\MYCC\obj\Debug\MYCC.pdb
