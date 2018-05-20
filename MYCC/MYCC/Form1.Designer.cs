@@ -245,7 +245,7 @@
             this.Circle.Location = new System.Drawing.Point(4, 25);
             this.Circle.Name = "Circle";
             this.Circle.Padding = new System.Windows.Forms.Padding(3);
-            this.Circle.Size = new System.Drawing.Size(793, 425);
+            this.Circle.Size = new System.Drawing.Size(793, 437);
             this.Circle.TabIndex = 0;
             this.Circle.Text = "Задать";
             this.Circle.UseVisualStyleBackColor = true;
@@ -305,7 +305,7 @@
             // 
             // buttonAdd
             // 
-            this.buttonAdd.Location = new System.Drawing.Point(358, 155);
+            this.buttonAdd.Location = new System.Drawing.Point(374, 242);
             this.buttonAdd.Name = "buttonAdd";
             this.buttonAdd.Size = new System.Drawing.Size(87, 59);
             this.buttonAdd.TabIndex = 10;

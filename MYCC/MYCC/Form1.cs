@@ -67,12 +67,11 @@ namespace MYCC
         {
             try
             {
-                    radius = Convert.ToDouble(textBoxRadius.Text);
-                
                
-                    double height = Convert.ToDouble(textBoxCylinderH.Text);
+                radius = Convert.ToDouble(textBoxRadius.Text.Replace(".", ","));
 
-                    Circle circ = new Circle(radius);
+                double height = Convert.ToDouble(textBoxCylinderH.Text.Replace(".", ","));
+                Circle circ = new Circle(radius);
                     Cylinder cyl = new Cylinder(radius, height);//?????
                     circle.DCi.Add(circ);
                     cylinder.DCy.Add(cyl);
@@ -89,7 +88,7 @@ namespace MYCC
             }
             catch
             {
-                MessageBox.Show("Eror");
+                MessageBox.Show("Error");
             }
         }
         private void tabControl1_Selected(object sender, TabControlEventArgs e)
